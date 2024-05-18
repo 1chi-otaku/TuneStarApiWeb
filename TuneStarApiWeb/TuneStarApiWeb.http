@@ -1,0 +1,6 @@
+@TuneStarApiWeb_HostAddress = http://localhost:5078
+
+GET {{TuneStarApiWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
